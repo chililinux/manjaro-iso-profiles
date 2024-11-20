@@ -1,6 +1,6 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
+pkgname=manjaro-iso-profiles
 pkgdesc="Package template for Chililinux"
 #depends=('')
 #makedepends=('')
